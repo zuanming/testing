@@ -2,6 +2,6 @@ numpy>=1.26.4
 pandas>=2.2.2
 regex>=2.5.145
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz#egg=en_core_web_sm==3.7.1
-scikit-learn>=1.0.2
+scikit-learn>=1.4.2
 joblib>=1.4.2
 streamlit>=1.37.1
