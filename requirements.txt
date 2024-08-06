@@ -1,9 +1,9 @@
-numpy==1.23.5  # Pin a stable version known to work with other dependencies
+numpy==1.23.5
 pandas==2.2.2
 regex==2023.6.3
 scikit-learn==1.4.2
 joblib==1.4.2
 streamlit==1.37.1
 thinc==8.2.4
-spacy==3.7.1  # Ensure spacy version is compatible with thinc and the en_core_web_sm model
+spacy>=3.7.2,<3.8.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz#egg=en_core_web_sm==3.7.1
